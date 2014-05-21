@@ -30,7 +30,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/AllenDang/w32"
+	"github.com/PaulMaddox/w32"
 )
 
 // Get retrieves the current system time, either via syscall.Gettimeofday on Linux/Darwin
